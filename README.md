@@ -1,8 +1,13 @@
-- 👋 Hi, I’m TK
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on advancing my python skills with the rest of the world
-- 📫 You can reach via whatsapp @ +254741695622
+👋 Hi, I'm TK.
+
+🔒 Passionate about web security and ethical hacking.
+
+🌐 Currently diving deep into the realm of web vulnerabilities and defenses.
+
+🤝 Open to collaborations that advance web security practices and knowledge sharing.
+
+ 📱 Connect on LinkedIn: www.linkedin.com/in/tanuidennis
+
 
 <!---
 TK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
